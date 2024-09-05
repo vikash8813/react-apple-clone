@@ -1,0 +1,27 @@
+.Mix3n2 img{
+    width: 300px;
+    display: block;
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+.Mix3n2{
+    background-color: #f5f5f7;
+    border-radius: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+}
+.Mix3n2 a{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    color: rgb(0, 0, 0);
+    font-weight: 300;
+}
+.Mix3n2 h5{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 200;
+    color: gray;
+    padding-top: 12px;
+}

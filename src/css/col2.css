@@ -1,0 +1,78 @@
+.third{
+    background-color: rgba(152, 150, 150, 0.072);
+    width: 49%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+.fourth{
+    background-color: rgba(152, 150, 150, 0.072);
+    width: 49%;
+    height: 38rem;
+    margin-top: 8px;
+
+}
+.AI{
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.906);
+    padding-top: 20px;
+    height: 10px;
+}
+.rest{
+    text-align: center;
+    font-size: 25px;
+}
+.learn5{
+    margin-left: 29%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #0071e3;
+    background-color: #0071e3;
+    font-size: 15px;
+    color: white;
+}
+.film{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 25px;
+    margin-left: 260px;
+    border-color: #0071e3;
+    border-style: solid;
+    color:#0071e3;
+    border-width: 1px;
+}
+.film:hover{
+    background-color:#0071e3;
+    color: white;
+}
+.Aimages{
+    width: 40rem;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.learn6{
+    margin-left: 35%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #0071e3;
+    background-color: #0071e3;
+    font-size: 15px;
+    color: white;
+}
+.m3photo{
+    width: 40rem;
+}

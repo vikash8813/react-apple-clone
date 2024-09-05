@@ -1,0 +1,25 @@
+.Mix4n3 img{
+    width: 400px;
+    height: 300px;
+    display: block;
+    border-radius: 25px;
+    padding-bottom: 92px;
+}
+.Mix4n3 {
+    background-color: #f5f5f7;
+    border-radius: 25px;
+    margin-left: 10px;
+}
+.Mix4n3 a{
+    margin-left: 130px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Mix4n3 h5{
+    text-align: center;
+    font-weight: 200;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    padding-top: 30px;
+}

@@ -1,0 +1,11 @@
+.Air4n3 img{
+    width: 265px;
+    object-fit: contain;
+}
+.Air4n3{
+    background-color: rgba(255, 255, 255, 0.37);
+    border-radius: 25px;
+    padding-left: 50px;
+    margin-left: 20px;
+    padding-right: 50px;
+}

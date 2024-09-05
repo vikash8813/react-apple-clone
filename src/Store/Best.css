@@ -1,0 +1,41 @@
+.love{
+    display: flex;
+    align-items: center;
+   padding-top: 3%;
+   background-color: #dddddd43;
+   padding-bottom: 5%;
+}
+.way{
+    font-size: 44px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: gray;
+    height: 0px;
+    display: inline-block;
+}
+.sto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: inline;
+    font-size: 44px;
+    color:black;
+}
+.products{
+    margin-left: 8%;
+    width: 45rem;
+}
+.Assistant {
+   margin-top: 30px;
+    margin-left: 10rem;
+   
+}
+.Assistanta{
+    display: flex;
+    align-items: center;
+}
+.rajiv{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    object-fit: cover;
+}

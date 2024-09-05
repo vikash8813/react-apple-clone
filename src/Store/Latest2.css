@@ -1,0 +1,30 @@
+.lnew{
+    background-color: rgb(0, 0, 0);
+    padding-right: 100px;
+    border-radius: 25px;
+    margin-right: 20px;
+    padding-bottom: 150px;
+}
+.lnew2{
+    color: white;
+    margin-left: 10%;
+    padding-top: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.lnew p{
+    font-size: 13px;
+    height: 7px;
+}
+.lnew2 h4{
+    font-weight: 100;
+    height: 0;
+}
+.lnew2 h1{
+    height: 24px;
+}
+.lnew2 img{
+   width: 18rem;
+    margin-top: 16%;
+    
+}

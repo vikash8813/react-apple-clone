@@ -1,0 +1,44 @@
+.Mac3n1n1{
+   margin-right: 26px;
+    width: 350px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.Mac3n1n1 p{
+    height: 10px;
+}
+.Mac3n1n1 h2{
+    margin-top: 45px;
+
+}
+.Mac3n1n1 h3{
+    font-size: 18px;
+    font-weight: 200;
+    margin-top: 20px;
+}
+.Mac3n1n1 p{
+    color: grey;
+    font-size: 17px;
+}
+.Mac3n1n1 button{
+    margin-top: 30px;
+    padding-left: 23px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-right: 23px;
+    font-size: 15px;
+    border-radius: 25px;
+    color: white;
+    background-color: rgb(0, 113, 227);
+    border-color: rgb(0, 113, 227);
+    border-style: solid;
+    margin-right: 40px;
+}
+.Mac3n1{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}

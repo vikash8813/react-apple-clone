@@ -1,0 +1,54 @@
+.ipad2n1{
+
+    width: 400px;
+}
+.ipad2n1 p{
+    font-size: 14px;
+    text-align: center;
+    color: brown;
+}
+.ipad2n1  h5{
+    font-size: 28px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.ipad2n1 h3{
+    font-size: 18px;
+    height: 5px;
+    text-align: center;
+    font-weight: 200;
+   
+}
+.ipad2n1 h4{
+    font-size: 18px;
+    height: 10px;
+    text-align: center;
+    font-weight: 200;   
+}
+.ipad2n1 h2{
+    text-align: center;
+    font-size: 20px;
+}
+.ipad2n1 button{
+    padding-top:10px ;
+    padding-left:20px ;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    border-radius: 25px;
+    border-style: solid;
+    background-color: rgb(0, 113, 227);
+    border-color: rgb(0, 113, 227);
+    color: white;
+    font-size: 16px;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ipad2n1 a{
+    color: rgb(0, 113, 227);
+    margin-left: 45px;
+}
+.ipad2n1 img{
+    margin-left: 70px;
+}

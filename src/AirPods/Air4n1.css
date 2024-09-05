@@ -1,0 +1,33 @@
+.Air4n1 img{
+    width: 270px;
+}
+.Air4n1n1 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin-left: 30px;
+}
+.Air4n1n1{
+    display: flex;
+    align-items: center;
+   
+}
+.Air4n1{
+    background-color: white;
+    width: 350px;
+    padding-top: 20px;
+    border-radius: 25px;
+    padding-left: 20px;
+    margin-left: 20px;
+    padding-right: 40px;
+}
+.Air4n1n1 button{
+    border-radius: 25px;
+   padding-right: 10px;
+   padding-left: 10px;
+font-size: 30px;
+color: white;
+background-color: black;
+border-color: black;
+border-style: solid;
+margin-left: 100px;
+}

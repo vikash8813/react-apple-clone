@@ -1,0 +1,15 @@
+.notice{
+    background-color: rgba(220, 220, 220, 0.357);
+    margin-top: 40px;
+}
+.nocost{
+    margin-left:14% ;
+    margin-right: 14%;
+    padding-top: 20px;
+    color: gray;
+    font-size: 14px;
+    border-bottom-color: gray;
+    border-bottom-style:solid;
+    border-bottom-width:1px ;
+    margin-bottom: 9px;
+}

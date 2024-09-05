@@ -1,0 +1,29 @@
+.l8new1{
+    background-color: rgb(255, 255, 255);
+    padding-right: 40px;
+    border-radius: 25px;
+    margin-right: 20px;
+    padding-bottom: 110px;
+}
+.l8new2{
+    color: rgb(34, 27, 27);
+    margin-left: 10%;
+    padding-top: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+.l8new2 p{
+    font-size: 13px;
+    height: 0;
+}
+.l8new2 h4{
+    font-weight: 400;
+    padding-top: 20px;
+}
+.l8new1 img{
+    padding-top: 25px;
+    padding-left: 50px;
+}
+.l8new2 h1{
+     height: 16px;
+}

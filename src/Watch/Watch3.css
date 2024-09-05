@@ -1,0 +1,42 @@
+.Watch3 h1{
+    font-size: 57px;
+    margin-left: 100px;
+}
+.Watch3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Watch3n2 img{
+    width: 550px;
+    border-radius: 25px;
+}
+.Watch3n2{
+    background-color: #dddddd43;
+    width: 550px;
+    border-radius: 25px;
+    margin-right: 50px;
+}
+.Watch3n2 h3{
+    height: 10px;
+    font-size: 25px;
+    text-align: center;
+    
+}
+.Watch3n2 a{
+    margin-left: 185px;
+ 
+}
+.Watch3n21 {
+    margin-bottom: 55px;
+    padding-top: 30px;
+}
+.Watch3n1{
+    margin-left: 100px;
+    padding-top: 40px;
+    display: flex;
+    align-items: center;
+}
+.Watch3n1 p{
+    text-align: center;
+    height: 2px;
+    color: gray;
+}

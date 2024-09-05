@@ -1,0 +1,35 @@
+.newhelp3 p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+    font-size: 13px;
+    color: gray;
+}
+.newhelp3{
+    background-color: rgba(231, 220, 220, 0.43);
+    border-radius: 25px;
+    margin-right: 20px; 
+}
+.newhelp3 h2{
+    font-family: Arial, Helvetica, sans-serif;
+   height: 10px;
+   margin-left: 25px;
+   color: rgba(3, 3, 3, 0.879);
+   padding-bottom: 30px;
+}
+.newhelp31{
+    background-color: rgba(0, 0, 0, 0.822);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    padding: 10px;
+    padding-right: 45px;
+    padding-left: 35px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    
+}
+.newhelp3 a{
+  color: white;
+}

@@ -1,0 +1,23 @@
+.ipad1n2{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 150px;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 40px;
+}
+.ipad1n2 h1{
+    font-size: 70px;
+}
+.ipad1n2 p{
+    font-size: 25px;
+    height: 6px;
+}
+.ipad1n1 video{
+    width: 94%;
+    margin-left: 40px;
+   
+   
+    border-radius: 30px;
+}

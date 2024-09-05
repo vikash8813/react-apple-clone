@@ -1,0 +1,39 @@
+.Iphone4{
+    padding-left: 50px;
+    padding-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 100px;
+}
+.Iphone4 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 52px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+.Iphone4n1{
+    display: flex;
+    
+}
+.Iphone4n2{
+    background-color: #dddddd43;
+    border-radius: 25px;
+    margin-right: 20px;
+}
+.Iphone4n2 h3{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+.Iphone4n2 p{
+    text-align: center;
+    height: 5px;
+    color: gray;
+}
+.Iphone4n2 a{
+    display: block;
+    margin-left: 200px;
+}
+.Iphone4n2 img{
+    margin-top: 40px;
+}

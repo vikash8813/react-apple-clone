@@ -1,0 +1,23 @@
+.Mac1n1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+}
+.Mac1n1 h2{
+    height: 10px;
+    font-size: 27px;
+}
+.Mac1n1 h1{
+    font-size: 86px;
+    font-weight: 450;
+}
+.Mac1 video{
+    width: 85%;
+  margin-left: 100px;
+  border-radius: 50px;
+  height: 90%px;
+}

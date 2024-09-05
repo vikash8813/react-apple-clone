@@ -1,0 +1,24 @@
+.Iphone1 h1{
+    font-size: 68px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+.Iphone1 video{
+ width: 96%;
+ border-radius: 50px;
+}
+.Iphone1n1 {
+   width: 98%;
+margin-left: 45px;
+}
+.Iphone1n2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 100px;
+}
+.Iphone1n2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    margin-top: 50px;
+}

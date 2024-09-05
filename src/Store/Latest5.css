@@ -1,0 +1,31 @@
+.llllnew1{
+    background-color: rgba(61, 161, 237, 0.597);;
+   
+    border-radius: 25px;
+    margin-right: 20px;
+   
+}
+.llllnew2{
+    color: white;
+    margin-left: 10%;
+    padding-top: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.llllnew1 p{
+    font-size: 13px;
+    height: 7px;
+}
+.llllnew2 h1{
+    height: 24px;
+}
+.llllnew2 h4{
+    font-weight: 100;
+    height: 0;
+}
+.llllnew1 img{
+    width: 360px;
+    height: 380px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

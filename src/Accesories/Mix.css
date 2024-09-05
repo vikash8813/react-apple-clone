@@ -1,0 +1,32 @@
+.Mixnew2 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    font-weight: 550;
+    height: 20px;
+
+}
+.Mixnew1{
+    padding-left:13%;
+    background-color: #f5f5f7;
+    display: flex;
+  margin-bottom: 120px;
+}
+.Mixnew2{
+    padding-top:40px;
+    width: 20%;
+    margin-right: 50px;
+    padding-top: 150px;
+}
+.Mixnew2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 10px;
+    padding-top: 18px;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.Mixnew2 a{
+    font-size: 20px;
+}
+.Mixnew3 img{
+    width: 100%;
+}

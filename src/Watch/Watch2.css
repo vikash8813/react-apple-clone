@@ -1,0 +1,49 @@
+.Watch2 h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+}
+.Watch2n2 h2{
+    margin-left: 10px;
+    font-size: 30px;
+}
+.Watch2{
+    background-color: #dddddd43;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    margin-bottom: 100px;
+}
+.Watch2n1{
+    padding-top: 40px;
+    padding-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 100px;
+}
+.Watch2n2 p{
+    height: 8px;
+    margin-left: 28px;
+}
+.Watch2n2 h5{
+    font-size: 19px;
+    padding-left: 30px;
+}
+.Watch2n2 button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+    border-radius: 25px;
+    border-style: solid;
+    background-color: #0077ED;
+    border-color: #0077ED;
+    color: white;
+}
+.Watch2n2 a{
+    margin-left: 35px;
+    font-size: 18px;
+    margin-top: 10px;
+    text-decoration:underline;
+}

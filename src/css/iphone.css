@@ -1,0 +1,42 @@
+.iphone{
+    text-align: center;
+    font-size: 55px;
+    font-weight: bold;
+    color: white;
+    font-family:sans-serif;
+    height: 10px;
+    padding-top: 60px;
+    margin-top: 15px;
+}
+.iphonew{
+    background-color: black;
+    width: 100%;
+}
+.Titanium{
+    color: white;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.buy3{
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-left: 18px;
+    padding-bottom: 10px;
+    padding-right: 18px;
+    border-radius: 17px;
+    border-style: solid;
+    border-width: 1px;
+    color:#0071e3;
+    border-color: #0071e3;
+    background-color:white;
+}
+.buy3:hover{
+    background-color: #0071e3 ;
+    color: white;
+}
+
+.photo{
+    height: 33rem;
+    margin-left: 10%;
+    
+}

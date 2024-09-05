@@ -1,0 +1,24 @@
+.newhelp1{
+        background-color: rgb(255, 255, 255);
+        border-radius: 25px;
+        margin-right: 20px;
+       
+}
+.newhelp1 h2{
+    font-family: Arial, Helvetica, sans-serif;
+   height: 10px;
+   margin-left: 25px;
+}
+.newhelp1 p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+    font-size: 13px;
+    color: gray;
+}
+.newhelp1 img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 25px;
+    padding-top: 30px;
+}

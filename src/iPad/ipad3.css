@@ -1,0 +1,38 @@
+.Ipad3{
+    padding-top: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #dddddd43;
+    padding-left: 80px;
+    padding-bottom: 160px;
+}
+
+.Ipad3 h1{
+    font-size: 54px;
+    margin-bottom: 100px;
+}
+.ipad3n2{
+ background-color: white;
+  width: 580px;
+  text-align: center;
+  border-radius: 25px;
+  margin-left: 20px;
+  padding-bottom: 30px;
+}
+.ipad3n1 {
+   
+    display: flex;
+}
+.ipad3n2 p{
+  color: brown;
+}
+.ipad3n2 h1{
+  font-size: 28px;
+  margin-bottom: 0;
+}
+.ipad3n2 h5{
+    font-size: 19px;
+    color: gray;
+    margin-top: 10px;
+    font-weight: 200;
+    margin-bottom: 16px;
+}

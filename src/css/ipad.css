@@ -1,0 +1,26 @@
+.ipad{
+    height: 100%;
+    width: 100%;
+}
+.ipadw{
+    background-color: rgba(128, 128, 128, 0.101);
+}
+.Shop{
+    margin-left: 45%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgb(0, 0, 255);
+    font-size: medium;
+    border-radius: 18px;
+    border-width: 1px;
+    border-color: rgba(0, 0, 255, 0.655);
+    margin-bottom: 60px;
+}
+.Shop:hover{
+    color: white;
+    background-color: rgba(0, 0, 255, 0.655);
+    border-color: rgba(0, 0, 255, 0.655);
+
+}
